@@ -1,1 +1,1 @@
-# 웹표준을 준수한 표준 사이트입니다.
+# Web-Standard Site
